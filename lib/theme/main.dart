@@ -34,7 +34,7 @@ class _NavigationExampleState extends State<NavigationExample> {
         destinations: const <Widget>[
           NavigationDestination(
             icon: Icon(Icons.home),
-            label: 'Start GitHub Test',
+            label: 'Start',
           ),
           NavigationDestination(
             icon: Icon(Icons.search),
